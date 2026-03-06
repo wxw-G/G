@@ -1,2 +1,1 @@
-
-[设计说明书.pdf](https://github.com/user-attachments/files/25795409/Instruction manual.pdf)
+[设计说明书.pdf](https://github.com/user-attachments/files/25795454/default.pdf)
